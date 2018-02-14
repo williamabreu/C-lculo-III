@@ -1,0 +1,56 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage[left=1.5cm, right=1.5cm, top=2cm, bottom=2cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{enumitem}
+
+\newcommand{\resposta}[1]{\hfill{{\begin{scriptsize} Resposta: \end{scriptsize}} #1}}
+
+
+\begin{document}
+
+	\thispagestyle{empty}
+
+	\begin{large} 
+	\begin{center}		
+		\textbf{15.1 - Integrais duplas sobre retângulos}		
+	\end{center}
+	\end{large} 
+	
+	\vspace{5mm}
+	
+	Calcule a integral iterada.
+	
+	\begin{enumerate} %[resume]
+		
+		% exercício 15
+		\item $\displaystyle \int_{1}^{4} \int_{0}^{2} (6x^{2}y + 2x) \, dy \, dx$ 
+		\resposta{$222$}
+		
+		% exercício 16
+		\item $\displaystyle \int_{0}^{1} \int_{0}^{1} (x + y)^2 \, dx \, dy$ 
+		\resposta{$\frac{7}{6}$}
+		
+		% exercício 17
+		\item $\displaystyle \int_{0}^{1} \int_{1}^{2} (x + e^{-y}) \, dx \, dy$ 
+		\resposta{$\frac{5}{2} - e^{-1}$}
+		
+		% exercício 18
+		\item $\displaystyle \int_{0}^{\frac{\pi}{6}} \int_{0}^{\frac{\pi}{2}} (\sin x + \sin y) \, dy \, dx$ 
+		\resposta{$(\frac{8 - 3\sqrt{3}}{12})\pi$}
+		
+		% exercício 19
+		\item $\displaystyle \int_{0}^{2} \int_{0}^{\frac{\pi}{2}} (x \sin y) \, dy \, dx$ 
+		\resposta{$2$}
+		
+	\end{enumerate}
+		
+	\vspace{5mm}	
+	
+	\textbf{Referência}	
+	
+	\begin{footnotesize}
+		STEWART, James. Cálculo: volume 2. 8ª ed. São Paulo, SP: Cengage Learning, 2016.	ISBN 9788522125845.
+	\end{footnotesize}
+
+\end{document}
