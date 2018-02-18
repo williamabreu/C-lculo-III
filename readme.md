@@ -2,7 +2,7 @@
 
 ___Livro__: Stewart Cálculo (volume 2) - 8ª edição_
 
-http://www.slader.com/textbook/9781285741550-stewart-calculus-early-transcendentals-8th-edition
+[//]: # (http://www.slader.com/textbook/9781285741550-stewart-calculus-early-transcendentals-8th-edition)
 
 [//]: # (Crtl + Shift + M --> MPE Preview vscode)
 
@@ -12,7 +12,7 @@ http://www.slader.com/textbook/9781285741550-stewart-calculus-early-transcendent
 > __15__, __16__, __17__, __18__, __19__
 
 #### 15.2 - Integrais duplas sobre regiões gerais
-> __1__, __3__, __5__, __7__, __8__, __9__, __10__, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+> __1__, __3__, __5__, __7__, __8__, __9__, __10__, __17__, __18__, __19__, __20__, __21__, __22__, __23__, __24__, __25__, __26__, __27__, __28__, __29__, __30__, __31__, __32__
 
 #### 15.3
 > 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27
